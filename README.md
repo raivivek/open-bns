@@ -1,11 +1,23 @@
-# BNS — browsable Bharatiya Nyaya Sanhita, 2023
+# Open BNS — browsable Bharatiya Nyaya Sanhita, 2023
 
-A fast, static, eCFR-style reader for India's penal code, the **Bharatiya
+A fast, static, tree-style reader for India's penal code, the **Bharatiya
 Nyaya Sanhita, 2023 (Act No. 45 of 2023)**, built entirely from the official
-Gazette of India publication. Chapter → group heading → section tree
-navigation, paragraph-level anchors that follow Indian citation practice
-(`Section 64(2)(f)`), citation-aware search, and deep links into the source
-PDF page.
+Gazette of India publication.
+
+## Features
+
+* Tree style reading: Chapter → group heading → section tree navigation,
+  paragraph-level anchors that follow Indian citation practice (`Section 64(2)(f)`),
+  citation-aware search, and deep links into the source PDF page.
+
+* Reading aids: Explanations, Exceptions, provisos and Illustrations are
+  colour-coded (label colour plus a faint rule along their extent).
+
+* Stats: `/stats/` lists headline figures (358 sections vs 511 in the IPC, the
+  Ministry's counts of new offences, increased penalties, community service),
+  the legislative timeline, and provisions that drew press coverage. Data:
+  `data/stats.json`.
+
 
 ## Source
 
@@ -34,26 +46,6 @@ docs/…Gazette.pdf
                          bns.site  ──▶ dist/           (static site)
 ```
 
-1. **Two independent readings.** Every page image was transcribed by a vision
-   model (format: `ocr/SPEC.md`) and, separately, the PDF text layer was
-   converted to the same block format from glyph coordinates.
-2. **Reconciliation.** `bns.reconcile` aligns the two readings per page. Word
-   or paragraph-boundary disagreements must be adjudicated against the page
-   image; all 23 were, and in every case the text layer matched the print
-   (`ocr/accepted.json` records each verdict). Quote/dash code points and
-   indentation are taken from the text layer (exact glyphs and coordinates).
-3. **Structure.** `bns.parse` builds section → sub-section → clause →
-   sub-clause trees with provisos, Explanations, Exceptions and Illustrations
-   attached to the provision they qualify. It fails the build if the tree,
-   read in order, does not reproduce the printed text character for character
-   (whitespace aside), if any section 1–358 or chapter I–XX is missing, or if
-   any id repeats.
-4. **Structural audit.** Every section's parsed tree (nesting, attachment of
-   provisos/Explanations/Illustrations, margin notes, group headings) was
-   compared against the page images; the 13 confirmed attachment errors were fixed
-   by general rules (documented in `docs/DATA_MODEL.md` → Attachment rules,
-   covered by `tests/test_parse.py`) and the affected sections re-audited clean.
-
 Printed errors are kept verbatim — e.g. Illustration to s. 117(1) reads
 "intending of knowing" in the Gazette.
 
@@ -68,37 +60,6 @@ make serve      # http://localhost:8000
 make test
 make deploy     # Cloudflare Pages direct upload (needs `npx wrangler login` once)
 ```
-
-Both readings (`ocr/pages`, `ocr/textlayer`), the adjudications and
-`data/bns.json` are committed, so `make data site test` need only the Python
-standard library; PyMuPDF is needed only to re-extract from the PDF. `dist/`
-is plain static files with root-relative links, so serve it at a domain root.
-
-### Cloudflare Pages
-
-`wrangler.toml` names the project (`bns-in` → `bns-in.pages.dev`) and output
-directory. Either run `make deploy`, or connect the Git repository in the
-Pages dashboard with build command `make site`, output directory `dist`, and
-`PYTHON_VERSION=3.12`. The build writes `dist/_headers` (from `web/_headers`):
-a strict Content-Security-Policy that pins the one inline script by hash,
-year-long caching for the content-hashed `style.css`/`app.js`, and
-`404.html` is served for unknown paths.
-
-## Stats page
-
-`/stats/` lists headline figures (358 sections vs 511 in the IPC, the
-Ministry's counts of new offences, increased penalties, community service),
-the legislative timeline, and provisions that drew press coverage. Every item
-cites its source, government counts are attributed to the Ministry, and
-differing official figures are shown rather than reconciled. Data:
-`data/stats.json`.
-
-## Reading aids
-
-Explanations, Exceptions, provisos and Illustrations are colour-coded (label
-colour plus a faint rule along their extent); the legend is on `/about/`.
-Both tables of contents (home page and sidebar) collapse per chapter and
-group, with "Expand all" / "Collapse all".
 
 ## Citations and links
 

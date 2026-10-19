@@ -627,6 +627,12 @@ def main() -> int:
     out = {"meta": meta, **data}
     DATA_DIR.mkdir(exist_ok=True)
     path = DATA_DIR / "bns.json"
+    # Keep the previous timestamp when nothing else changed, so rebuilds are byte-identical.
+    if path.exists():
+        prev = json.loads(path.read_text(encoding="utf-8"))
+        stamp = prev.get("meta", {}).get("generated")
+        if stamp and {**prev, "meta": {**prev["meta"], "generated": meta["generated"]}} == out:
+            meta["generated"] = stamp
     path.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     n_nodes = sum(1 for _ in iter_nodes(out))
     print(f"{len(out['order'])} sections, {len(out['chapters'])} chapters, {n_nodes} nodes, {len(warnings)} warnings -> {path}")

@@ -1,5 +1,5 @@
 [project]
-name = "bns"
+name = "bns-in"
 version = "0.1.0"
 description = "Browsable, citable Bharatiya Nyaya Sanhita, 2023 built from the official Gazette"
 license = "CC0-1.0"

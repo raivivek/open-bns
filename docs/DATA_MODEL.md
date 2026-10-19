@@ -26,7 +26,7 @@ blocks (see `README.md` → Pipeline). It is the only input of the site build.
       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/The%20Bharatiya%20Nyaya%20Sanhita%2C%202023.pdf",
       "pages": 102
     },
-    "generated": "…ISO timestamp…"
+    "generated": "…ISO timestamp…"   // changes only when the rest of the file does
   },
   "preamble": {
     "act_no": "NO. 45 OF 2023",
@@ -159,6 +159,7 @@ Nyaya Sanhita, 2023") is derived from `kind` + labels along the path.
 | `/full/` | Whole Act on one page (print / find-in-page) |
 | `/about/` | Source, method, verification, citation guide |
 | `/stats/` | Sourced figures and reported changes, from `data/stats.json` (see below) |
+| `/download/bns.json`, `/download/stats.json`, `/download/DATA_MODEL.md` | The full data behind the site (byte-identical to `data/`), CORS-enabled; listed with sizes and SHA-256 under About → Downloads |
 | `/source/bns-2023-gazette.pdf` | The source Gazette (`#page=N` deep links) |
 
 ## `data/stats.json`

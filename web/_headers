@@ -15,5 +15,10 @@
 /search-index.json
   Cache-Control: public, max-age=3600
 
+# Open data: allow cross-origin fetches of the JSON downloads.
+/download/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
 /source/*
   Cache-Control: public, max-age=86400

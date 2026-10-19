@@ -213,6 +213,10 @@ h1.sh{font-size:1.6rem;margin-top:.25rem}
 .notice{border:1px solid var(--hl-edge);border-left-width:4px;background:var(--hl);border-radius:4px;padding:.6rem 1rem;margin:1rem 0 1.5rem}
 .notice p,.notice ul{margin:.3rem 0}
 .notice ul{padding-left:1.2rem}
+.dl td{vertical-align:top}
+.dl .num{text-align:right;white-space:nowrap}
+.sums{font-size:.85rem;margin:.5rem 0 1rem}
+.sums ul{padding-left:1.2rem;margin:.3rem 0}
 .hash{word-break:break-all}
 .tw{overflow-x:auto}
 table{border-collapse:collapse;font-size:.9rem;margin:.75rem 0}

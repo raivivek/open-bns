@@ -467,10 +467,12 @@ def validate_stats(stats: dict, act: Act) -> None:
 
 
 class Site:
-    def __init__(self, act: Act, out: Path, stats_data: dict | None = None):
+    def __init__(self, act: Act, out: Path, stats_data: dict | None = None, data_path: Path = DATA_DIR / "bns.json"):
         self.act = act
         self.out = out
         self.stats_data = stats_data
+        self.data_path = data_path
+        self.downloads: list[tuple[str, str, str, int, str]] = []
         self.v_css = self.v_js = ""
 
     def toc(self, *, chapter: str | None = None, section: str | None = None, inpage: bool = False) -> str:
@@ -768,13 +770,53 @@ class Site:
         """Prominent warning that this is unofficial, with links to the official texts."""
         return (
             '<aside class="notice" role="note"><p><strong>There may be mistakes.</strong> This is an unofficial, '
-            "independently produced edition. Before relying on any provision, check it against an official source:</p><ul>"
+            "machine-readable (digital) reproduction of the source. Before relying on any provision, check it against an "
+            "official source:</p><ul>"
             f'<li><a href="{PDF_PATH}">The Gazette of India publication</a> this site is built from '
             "(Extraordinary, Part II—Section 1, No. 53, 25 December 2023)</li>"
             '<li><a href="https://www.indiacode.nic.in/">India Code</a> (Legislative Department, Ministry of Law and Justice), '
             "which carries the consolidated text with any later amendments</li>"
             '<li><a href="https://egazette.gov.in/">e-Gazette of India</a> for notifications, including commencement</li>'
             "</ul><p>If you find an error, please report it with the section and the Gazette page number.</p></aside>"
+        )
+
+    def write_downloads(self):
+        """Copy the machine-readable files to /download/ and remember their size and hash."""
+        files = [
+            (self.data_path, "bns.json", "The entire Act as structured JSON: preamble, chapters, group headings, sections and "
+             "every sub-section, clause, proviso, Explanation, Exception and Illustration, with citation ids, citations "
+             "and Gazette page numbers."),
+            (self.data_path.parent / "stats.json", "stats.json", "The figures on the stats page, each with its sources."),
+            (ROOT / "docs" / "DATA_MODEL.md", "DATA_MODEL.md", "Schema and citation-id scheme for bns.json."),
+        ]
+        self.downloads = []
+        out = self.out / "download"
+        out.mkdir(parents=True, exist_ok=True)
+        for src, name, desc in files:
+            if not src.exists():
+                continue
+            data = src.read_bytes()
+            (out / name).write_bytes(data)
+            self.downloads.append((f"/download/{name}", name, desc, len(data), hashlib.sha256(data).hexdigest()))
+
+    def downloads_html(self) -> str:
+        if not self.downloads:
+            return ""
+        rows = "".join(
+            f'<tr><td><a href="{esc(href)}" download><code>{esc(name)}</code></a></td><td>{esc(desc)}</td>'
+            f'<td class="num">{size / 1024:,.0f} KB</td></tr>'
+            for href, name, desc, size, _ in self.downloads
+        )
+        sums = "".join(f"<li><code>{esc(name)}</code> <code class=\"hash\">{esc(sha)}</code></li>" for _, name, _, _, sha in self.downloads)
+        return (
+            "<h2 id=\"downloads\">Downloads</h2>"
+            "<p>The entire content of this site is available as JSON, generated from the same data as these pages. "
+            "Like the rest of the site it is public domain (CC0), and may contain mistakes — the Gazette is authoritative.</p>"
+            f'<div class="tw"><table class="dl"><thead><tr><th>File</th><th>Contents</th><th>Size</th></tr></thead><tbody>{rows}'
+            f'<tr><td><a href="{PDF_PATH}" download><code>bns-2023-gazette.pdf</code></a></td>'
+            "<td>The source Gazette of India publication, unmodified.</td><td class=\"num\">"
+            f"{GAZETTE_PDF.stat().st_size / 1024:,.0f} KB</td></tr></tbody></table></div>"
+            f'<details class="sums"><summary>SHA-256 checksums</summary><ul>{sums}</ul></details>'
         )
 
     def about(self):
@@ -820,7 +862,8 @@ class Site:
             f"original at <a href=\"{esc(src['url'])}\">{esc(src['url'].split('/')[2])}</a></dd>"
             f"<dt>SHA-256</dt><dd><code class=\"hash\">{esc(src['sha256'])}</code></dd>"
             f"<dt>Generated</dt><dd>{esc(m.get('generated', ''))}</dd></dl>"
-            "<h2>Method</h2>"
+            + self.downloads_html()
+            + "<h2>Method</h2>"
             "<p>Text taken from the Gazette PDF text layer and independently transcribed from page images by a vision model; "
             "every word-level or paragraph-boundary disagreement was adjudicated against the page image "
             f"(<code>ocr/accepted.json</code>).{esc(n_adj)} The reconciled text was then parsed into chapters, sections and "
@@ -974,6 +1017,7 @@ class Site:
             self.section_page(num)
         self.full()
         self.search_page()
+        self.write_downloads()
         self.about()
         self.stats()
         self.not_found()
@@ -990,7 +1034,7 @@ def main(argv: list[str] | None = None) -> int:
     stats = json.loads(stats_path.read_text(encoding="utf-8")) if stats_path.exists() else None
     if stats is not None:
         validate_stats(stats, act)
-    Site(act, args.out, stats).build()
+    Site(act, args.out, stats, args.data).build()
     print(f"built {len(act.order)} sections, {len(act.chapters)} chapters → {args.out}")
     return 0
 

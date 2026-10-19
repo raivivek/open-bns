@@ -1,0 +1,19 @@
+P2| (b) A, an officer of a Court, being ordered by that Court to arrest Y, and, after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.
+@SECTION 15 | Act of Judge when acting judicially.
+P1| Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law.
+@SECTION 16 | Act done pursuant to judgment or order of Court.
+P1| Nothing which is done in pursuance of, or which is warranted by the judgment or order of, a Court; if done whilst such judgment or order remains in force, is an offence, notwithstanding the Court may have had no jurisdiction to pass such judgment or order, provided the person doing the act in good faith believes that the Court had such jurisdiction.
+@SECTION 17 | Act done by a person justified, or by mistake of fact believing himself justified, by law.
+P1| Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith, believes himself to be justified by law, in doing it.
+@ILLUSTRATION Illustration.
+P1| A sees Z commit what appears to A to be a murder. A, in the exercise, to the best of his judgment exerted in good faith, of the power which the law gives to all persons of apprehending murderers in the fact, seizes Z, in order to bring Z before the proper authorities. A has committed no offence, though it may turn out that Z was acting in self-defence.
+@SECTION 18 | Accident in doing a lawful act.
+P1| Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.
+@ILLUSTRATION Illustration.
+P1| A is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is excusable and not an offence.
+@SECTION 19 | Act likely to cause harm, but done without criminal intent, and to prevent other harm.
+P1| Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
+P1| Explanation.—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
+@ILLUSTRATION Illustrations.
+P2| (a) A, the captain of a vessel, suddenly and without any fault or negligence on his part, finds himself in such a position that, before he can stop his vessel, he must inevitably run down a boat B, with twenty or thirty passengers on board, unless he changes the course of his vessel, and that, by changing his course, he must incur risk of running down a boat C with only two passengers on board, which he may possibly clear. Here, if A alters his course without any intention to run down the boat C and in good faith for the purpose of avoiding the danger to the passengers in the boat B, he is not guilty of an offence, though he may run down the boat C by doing an act which he knew was likely to cause that effect, if it be found as a matter of fact that the danger which he intended to avoid was such as to excuse him in incurring the risk of running down the boat C.
+P2| (b) A, in a great fire, pulls down houses in order to prevent the conflagration from spreading. He does this with the intention in good faith of saving human life or property. Here, if it be found that the harm to be prevented was of such a nature and so imminent as to excuse A’s act, A is not guilty of the offence.

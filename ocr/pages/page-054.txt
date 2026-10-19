@@ -1,0 +1,20 @@
+C| shall be punished with fine which may extend to two hundred rupees.
+P1| (2) Any such stamp, die, plate, instrument or materials in the possession of any person for making any fictitious stamp may be seized and, if seized shall be forfeited.
+P1| (3) In this section “fictitious stamp” means any stamp falsely purporting to be issued by Government for the purpose of denoting a rate of postage, or any facsimile or imitation or representation, whether on paper or otherwise, of any stamp issued by Government for that purpose.
+P1| (4) In this section and also in sections 178 to 181 (both inclusive), and sections 183 to 185 (both inclusive) the word “Government”, when used in connection with, or in reference to any stamp issued for the purpose of denoting a rate of postage, shall, notwithstanding anything in clause (12) of section 2, be deemed to include the person or persons authorised by law to administer executive Government in any part of India or in any foreign country.
+@SECTION 187 | Person employed in mint causing coin to be of different weight or composition from that fixed by law.
+P1| Whoever, being employed in any mint lawfully established in India, does any act, or omits what he is legally bound to do, with the intention of causing any coin issued from that mint to be of a different weight or composition from the weight or composition fixed by law, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@SECTION 188 | Unlawfully taking coining instrument from mint.
+P1| Whoever, without lawful authority, takes out of any mint, lawfully established in India, any coining tool or instrument, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@CHAPTER XI
+@CHAPTER-TITLE OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY
+@SECTION 189 | Unlawful assembly.
+P1| (1) An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is—
+P2| (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or
+P2| (b) to resist the execution of any law, or of any legal process; or
+P2| (c) to commit any mischief or criminal trespass, or other offence; or
+P2| (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or
+P2| (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.
+P1| Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly.
+P1| (2) Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+P1| (3) Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.

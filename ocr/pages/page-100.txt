@@ -1,0 +1,18 @@
+P1| (c) A draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions.
+P1| Exception 1.—It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
+P1| Exception 2.—It is not defamation to express in good faith any opinion whatever respecting the conduct of a public servant in the discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+P1| Exception 3.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
+@ILLUSTRATION Illustration.
+P1| It is not defamation in A to express in good faith any opinion whatever respecting Z’s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presiding or attending at such meeting, in forming or joining any society which invites the public support, in voting or canvassing for a particular candidate for any situation in the efficient discharge of the duties of which the public is interested.
+P1| Exception 4.—It is not defamation to publish substantially true report of the proceedings of a Court, or of the result of any such proceedings.
+P1| Explanation.—A Magistrate or other officer holding an inquiry in open Court preliminary to a trial in a Court, is a Court within the meaning of the above section.
+P1| Exception 5.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a Court, or respecting the conduct of any person as a party, witness or agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
+@ILLUSTRATION Illustrations.
+P1| (a) A says—“I think Z’s evidence on that trial is so contradictory that he must be stupid or dishonest”. A is within this exception if he says this in good faith, in as much as the opinion which he expresses respects Z’s character as it appears in Z’s conduct as a witness, and no further.
+P1| (b) But if A says—“I do not believe what Z asserted at that trial because I know him to be a man without veracity”; A is not within this exception, in as much as the opinion which expresses Z’s character, is an opinion not founded on Z’s conduct as a witness.
+P1| Exception 6.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
+P1| Explanation.—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
+@ILLUSTRATION Illustrations.
+P1| (a) A person who publishes a book, submits that book to the judgment of the public.
+P1| (b) A person who makes a speech in public, submits that speech to the judgment of the public.
+P1| (c) An actor or singer who appears on a public stage, submits his acting or singing to the judgment of the public.

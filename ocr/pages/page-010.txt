@@ -1,0 +1,22 @@
+P2| (b) several acts, of which one or more than one would by itself or themselves constitute an offence, constitute, when combined, a different offence,
+P1| the offender shall not be punished with a more severe punishment than the Court which tries him could award for any one of such offences.
+@ILLUSTRATION Illustrations.
+P2| (a) A gives Z fifty strokes with a stick. Here A may have committed the offence of voluntarily causing hurt to Z by the whole beating, and also by each of the blows which make up the whole beating. If A were liable to punishment for every blow, he might be imprisoned for fifty years, one for each blow. But he is liable only to one punishment for the whole beating.
+P2| (b) But, if, while A is beating Z, Y interferes, and A intentionally strikes Y, here, as the blow given to Y is no part of the act whereby A voluntarily causes hurt to Z, A is liable to one punishment for voluntarily causing hurt to Z, and to another for the blow given to Y.
+@SECTION 10 | Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.
+P1| In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all.
+@SECTION 11 | Solitary confinement.
+P1| Whenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the following scale, namely:––
+P2| (a) a time not exceeding one month if the term of imprisonment shall not exceed six months;
+P2| (b) a time not exceeding two months if the term of imprisonment shall exceed six months and shall not exceed one year;
+P2| (c) a time not exceeding three months if the term of imprisonment shall exceed one year.
+@SECTION 12 | Limit of solitary confinement.
+P1| In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.
+@SECTION 13 | Enhanced punishment for certain offences after previous conviction.
+P1| Whoever, having been convicted by a Court in India, of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.
+@CHAPTER III
+@CHAPTER-TITLE GENERAL EXCEPTIONS
+@SECTION 14 | Act done by a person bound, or by mistake of fact believing himself bound, by law.
+P1| Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+@ILLUSTRATION Illustrations.
+P2| (a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.

@@ -1,0 +1,19 @@
+C| of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court, and every person specially authorised by a Court to perform any of such duties;
+P3| (d) every assessor or member of a panchayat assisting a Court or public servant;
+P3| (e) every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court, or by any other competent public authority;
+P3| (f) every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;
+P3| (g) every officer of the Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;
+P3| (h) every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue-process, or to investigate, or to report, on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Government, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government;
+P3| (i) every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district;
+P3| (j) every person who holds any office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election;
+P3| (k) every person––
+P4| (i) in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty by the Government;
+P4| (ii) in the service or pay of a local authority as defined in clause (31) of section 3 of the General Clauses Act, 1897, a corporation established by or under a Central or State Act or a Government company as defined in clause (45) of section 2 of the Companies Act, 2013.
+@REF 10 of 1897.
+@REF 18 of 2013.
+P3| Explanation.—
+P4| (a) persons falling under any of the descriptions made in this clause are public servants, whether appointed by the Government or not;
+P4| (b) every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation is a public servant;
+P4| (c) “election” means an election for the purpose of selecting members of any legislative, municipal or other public authority, of whatever character, the method of selection to which is by, or under any law for the time being in force.
+@ILLUSTRATION Illustration.
+P1| A Municipal Commissioner is a public servant;

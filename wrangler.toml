@@ -1,0 +1,8 @@
+# Cloudflare Pages project. Static output only; no Functions.
+#   Direct upload:  make deploy            (needs `npx wrangler login` once)
+#   Git integration (dashboard): build command `make site`, output directory `dist`,
+#   environment variable PYTHON_VERSION=3.12. The build needs only the Python
+#   standard library because data/bns.json is committed.
+name = "bns-in"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"

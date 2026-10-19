@@ -1,0 +1,23 @@
+P3| (ii) which is kept or used bona fide for religious purposes;
+P2| (b) any representation sculptured, engraved, painted or otherwise represented on or in—
+P3| (i) any ancient monument within the meaning of the Ancient Monuments and Archaeological Sites and Remains Act, 1958; or
+@REF 24 of 1958.
+P3| (ii) any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
+@SECTION 295 | Sale, etc., of obscene objects to child.
+P1| Whoever sells, lets to hire, distributes, exhibits or circulates to any child any such obscene object as is referred to in section 294, or offers or attempts so to do, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.
+@SECTION 296 | Obscene acts and songs.
+P1| Whoever, to the annoyance of others,—
+P2| (a) does any obscene act in any public place; or
+P2| (b) sings, recites or utters any obscene song, ballad or words, in or near any public place,
+P0| shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.
+@SECTION 297 | Keeping lottery office.
+P1| (1) Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+P1| (2) Whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear from doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery, shall be punished with fine which may extend to five thousand rupees.
+@CHAPTER XVI
+@CHAPTER-TITLE OF OFFENCES RELATING TO RELIGION
+@SECTION 298 | Injuring or defiling place of worship with intent to insult religion of any class.
+P1| Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of thereby insulting the religion of any class of persons or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 299 | Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.
+P1| Whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words, either spoken or written, or by signs or by visible representations or through electronic means or otherwise, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+@SECTION 300 | Disturbing religious assembly.
+P1| Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.

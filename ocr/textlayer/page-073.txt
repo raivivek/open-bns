@@ -1,0 +1,21 @@
+@SECTION 264 | Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for.
+P1| Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished—
+P2| (a) if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and
+P2| (b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.
+@SECTION 265 | Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for.
+P1| Whoever, in any case not provided for in section 262 or section 263 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+@SECTION 266 | Violation of condition of remission of punishment.
+P1| Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.
+@SECTION 267 | Intentional insult or interruption to public servant sitting in judicial proceeding.
+P1| Whoever, intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.
+@SECTION 268 | Personation of assessor.
+P1| Whoever, by personation or otherwise, shall intentionally cause, or knowingly suffer himself to be returned, empanelled or sworn as an assessor in any case in which he knows that he is not entitled by law to be so returned, empanelled or sworn, or knowing himself to have been so returned, empanelled or sworn contrary to law, shall voluntarily serve as such assessor, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 269 | Failure by person released on bail bond or bond to appear in Court.
+P1| Whoever, having been charged with an offence and released on bail bond or on bond, fails without sufficient cause (the burden of proving which shall lie upon him), to appear in Court in accordance with the terms of the bail or bond, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+P1| Explanation.—The punishment under this section is—
+P2| (a) in addition to the punishment to which the offender would be liable on a conviction for the offence with which he has been charged; and
+P2| (b) without prejudice to the power of the Court to order forfeiture of the bond.
+@CHAPTER XV
+@CHAPTER-TITLE OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+@SECTION 270 | Public nuisance.
+P1| A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.

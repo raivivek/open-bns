@@ -1,0 +1,19 @@
+@ILLUSTRATION Illustration.
+P1| A Magistrate exercising jurisdiction in respect of a charge on which he has power to sentence to fine or imprisonment, with or without appeal, is a Judge;
+P2| (17) “life” means the life of a human being, unless the contrary appears from the context;
+P2| (18) “local law” means a law applicable only to a particular part of India;
+P2| (19) “man” means male human being of any age;
+P2| (20) “month” and “year”.—Wherever the word “month” or the word “year” is used, it is to be understood that the month or the year is to be reckoned according to the Gregorian calendar;
+P2| (21) “movable property” includes property of every description, except land and things attached to the earth or permanently fastened to anything which is attached to the earth;
+P2| (22) “number”.—Unless the contrary appears from the context, words importing the singular number include the plural number, and words importing the plural number include the singular number;
+P2| (23) “oath” includes a solemn affirmation substituted by law for an oath, and any declaration required or authorised by law to be made before a public servant or to be used for the purpose of proof, whether in a Court or not;
+P2| (24) “offence”.—Except in the Chapters and sections mentioned in sub-clauses (a) and (b), the word “offence” means a thing made punishable by this Sanhita, but––
+P3| (a) in Chapter III and in the following sections, namely, sub-sections (2), (3), (4) and (5) of section 8, sections 9, 49, 50, 52, 54, 55, 56, 57, 58, 59, 60, 61, 119, 120, 123, sub-sections (7) and (8) of section 127, 222, 230, 231, 240, 248, 250, 251, 259, 260, 261, 262, 263, sub-sections (6) and (7) of section 308 and sub-section (2) of section 330, the word “offence” means a thing punishable under this Sanhita, or under any special law or local law; and
+P3| (b) in sub-section (1) of section 189, sections 211, 212, 238, 239, 249, 253 and sub-section (1) of section 329, the word “offence” shall have the same meaning when the act punishable under the special law or local law is punishable under such law with imprisonment for a term of six months or more, whether with or without fine;
+P2| (25) “omission” denotes as well a series of omissions as a single omission;
+P2| (26) “person” includes any company or association or body of persons, whether incorporated or not;
+P2| (27) “public” includes any class of the public or any community;
+P2| (28) “public servant” means a person falling under any of the descriptions, namely:––
+P3| (a) every commissioned officer in the Army, Navy or Air Force;
+P3| (b) every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions;
+P3| (c) every officer of a Court including a liquidator, receiver or commissioner whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose

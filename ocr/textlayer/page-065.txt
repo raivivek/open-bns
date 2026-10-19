@@ -1,0 +1,17 @@
+P1| Explanation 1.—A trial before a Court-martial is a judicial proceeding.
+P1| Explanation 2.—An investigation directed by law preliminary to a proceeding before a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court.
+@ILLUSTRATION Illustration.
+P1| A, in an enquiry before a Magistrate for the purpose of ascertaining whether Z ought to be committed for trial, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.
+P1| Explanation 3.—An investigation directed by a Court according to law, and conducted under the authority of a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court.
+@ILLUSTRATION Illustration.
+P1| A, in an enquiry before an officer deputed by a Court to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.
+@SECTION 230 | Giving or fabricating false evidence with intent to procure conviction of capital offence.
+P1| (1) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to fifty thousand rupees.
+P1| (2) If an innocent person be convicted and executed in consequence of false evidence referred to in sub-section (1), the person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).
+@SECTION 231 | Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment.
+P1| Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+@ILLUSTRATION Illustration.
+P1| A gives false evidence before a Court, intending thereby to cause Z to be convicted of a dacoity. The punishment of dacoity is imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to imprisonment for life or imprisonment, with or without fine.
+@SECTION 232 | Threatening any person to give false evidence.
+P1| (1) Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+P1| (2) If innocent person is convicted and sentenced in consequence of false evidence referred to in sub-section (1), with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.

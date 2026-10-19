@@ -1,0 +1,163 @@
+[
+  {
+    "page": 1,
+    "category": "words",
+    "detail": "  P1 Be it enacted by Parliament in the Seventy-fourth Year of the Republic…\n    ocr[Be] pdf[BE]",
+    "verdict": "pdf",
+    "note": "Printed in small caps 'BE' (B + small-cap E); text layer encodes 'BE'."
+  },
+  {
+    "page": 4,
+    "category": "words",
+    "detail": "  P2 (25) “omission” denotes as well a series of omissions as a single omis…\n    ocr[] pdf[as]",
+    "verdict": "pdf",
+    "note": "Image: 'denotes as well as a series of omissions' — OCR dropped 'as'."
+  },
+  {
+    "page": 16,
+    "category": "words",
+    "detail": "  P1 If, in the exercise of the right of private defence against an assault…\n    ocr[If,] pdf[If]",
+    "verdict": "pdf",
+    "note": "Image: '44. If in the exercise' — no comma; OCR added one."
+  },
+  {
+    "page": 20,
+    "category": "words",
+    "detail": "  P1 Whenever any person who is absent would be liable to be punished as an…\n    ocr[person] pdf[person,]",
+    "verdict": "pdf",
+    "note": "Image: 'Whenever any person, who is absent' — comma printed; OCR dropped it."
+  },
+  {
+    "page": 29,
+    "category": "boundary",
+    "detail": "    ocr: P1| from such person for the space of seven years, and shall not have been heard of by such person as being alive within\n    pdf: C| from such person for the space of seven years, and shall not have been heard of by such person as being alive within ",
+    "verdict": "pdf",
+    "note": "Mid-sentence continuation from page 28 ('…continually absent / from such person')."
+  },
+  {
+    "page": 30,
+    "category": "words",
+    "detail": "  @SECTION 91 | Act done with intent to prevent child being born alive or to caus…\n    ocr[it] pdf[]",
+    "verdict": "pdf",
+    "note": "Margin note image: 'alive or to cause to die after birth.' — OCR inserted 'it'."
+  },
+  {
+    "page": 41,
+    "category": "boundary",
+    "detail": "    ocr: C| Provided further that any fine imposed under this sub-section shall be paid to the victim.\n    pdf: P1| Provided further that any fine imposed under this sub-section shall be paid to the victim.",
+    "verdict": "pdf",
+    "note": "'Provided further that' opens a new proviso paragraph."
+  },
+  {
+    "page": 42,
+    "category": "boundary",
+    "detail": "    ocr: C| (3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either des\n    pdf: P1| (3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either de",
+    "verdict": "pdf",
+    "note": "'(3)' opens a new sub-section; not a continuation."
+  },
+  {
+    "page": 48,
+    "category": "words",
+    "detail": "  P1 Whoever, within or without and beyond India conspires to commit any of…\n    ocr[Whoever,] pdf[Whoever]",
+    "verdict": "pdf",
+    "note": "Image: '148. Whoever within or without' — no comma; OCR added one."
+  },
+  {
+    "page": 57,
+    "category": "boundary",
+    "detail": "    ocr: C| (b) commits any act which is prejudicial to the maintenance of harmony between different religious, racial, language \n    pdf: P2| (b) commits any act which is prejudicial to the maintenance of harmony between different religious, racial, language",
+    "verdict": "pdf",
+    "note": "'(b)' opens a new clause; not a continuation."
+  },
+  {
+    "page": 61,
+    "category": "words",
+    "detail": "  @SECTION 217 | False information, with intent to cause public servant to use hi…\n    ocr[the] pdf[]",
+    "verdict": "pdf",
+    "note": "Margin note image: 'lawful power to injury of another person.' — OCR inserted 'the'."
+  },
+  {
+    "page": 64,
+    "category": "boundary",
+    "detail": "    ocr: P2| (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s\n    pdf: P1| (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s",
+    "verdict": "pdf",
+    "note": "Image: '(c)' at illustration indent; 'in a place which he knows that the officers of' — OCR inserted 'in' after 'knows'."
+  },
+  {
+    "page": 73,
+    "category": "words",
+    "detail": "  P1 Whoever, intentionally offers any insult or causes any interruption to…\n    ocr[insult] pdf[insult,]",
+    "verdict": "pdf",
+    "note": "Image: 'offers any insult, or causes' — comma printed; OCR dropped it."
+  },
+  {
+    "page": 77,
+    "category": "boundary",
+    "detail": "    ocr: C| (ii) which is kept or used bona fide for religious purposes;\n    pdf: P3| (ii) which is kept or used bona fide for religious purposes;",
+    "verdict": "pdf",
+    "note": "'(ii)' opens a new sub-clause after '(i) …; or' on page 76."
+  },
+  {
+    "page": 78,
+    "category": "words",
+    "detail": "  P1 (b) A puts a bait for dogs in his pocket, and thus induces Z’s dog to …\n    ocr[is] pdf[be]",
+    "verdict": "pdf",
+    "note": "Image: 'if A’s intention be dishonestly' — OCR normalised to 'is'."
+  },
+  {
+    "page": 80,
+    "category": "words",
+    "detail": "  @SECTION 307 | Theft after preparation made for causing death, or hurt or restr…\n    ocr[or] pdf[]",
+    "verdict": "pdf",
+    "note": "Margin note image: 'causing death, hurt or restraint' — OCR inserted 'or'."
+  },
+  {
+    "page": 83,
+    "category": "words",
+    "detail": "  P1 (c) A and B, being joint owners of a horse. A takes the horse out of B…\n    ocr[being] pdf[being,]",
+    "verdict": "pdf",
+    "note": "Image: 'A and B, being, joint owners' — printed comma; OCR dropped it."
+  },
+  {
+    "page": 84,
+    "category": "boundary",
+    "detail": "    ocr: P1| knows that this person can direct him to the person in whose favour the cheque was drawn. A appropriates the cheque \n    pdf: C| knows that this person can direct him to the person in whose favour the cheque was drawn. A appropriates the cheque w",
+    "verdict": "pdf",
+    "note": "Mid-sentence continuation from page 83."
+  },
+  {
+    "page": 86,
+    "category": "boundary",
+    "detail": "    ocr: P1| dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged\n    pdf: C| dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged ",
+    "verdict": "pdf",
+    "note": "Mid-sentence continuation from page 85."
+  },
+  {
+    "page": 88,
+    "category": "words",
+    "detail": "  P1 (a) A voluntarily burns a valuable security belonging to Z, intending …\n    ocr[Z,] pdf[Z]",
+    "verdict": "pdf",
+    "note": "Image: 'belonging to Z intending' — no comma; OCR added one."
+  },
+  {
+    "page": 97,
+    "category": "words",
+    "detail": "  P1 Whoever makes or has in his possession any die, plate or other instrum…\n    ocr[mark,] pdf[mark]",
+    "verdict": "pdf",
+    "note": "Image: 'a property mark for the purpose' — no comma; OCR added one."
+  },
+  {
+    "page": 100,
+    "category": "words",
+    "detail": "  P1 (b) But if A says—“I do not believe what Z asserted at that trial beca…\n    ocr[] pdf[of]",
+    "verdict": "pdf",
+    "note": "Image: 'the opinion which expresses of Z’s character' — OCR dropped 'of'."
+  },
+  {
+    "page": 102,
+    "category": "words",
+    "detail": "  P2 (c) any penalty or punishment incurred in respect of any offences comm…\n    ocr[penalty] pdf[penalty,]",
+    "verdict": "pdf",
+    "note": "Image: '(c) any penalty, or punishment' — comma printed; OCR dropped it."
+  }
+]

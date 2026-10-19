@@ -1,0 +1,25 @@
+@SECTION 304 | Snatching.
+P1| (1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.
+P1| (2) Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+@SECTION 305 | Theft in a dwelling house, or means of transportation or place of worship, etc.
+P1| Whoever commits theft—
+P2| (a) in any building, tent or vessel used as a human dwelling or used for the custody of property; or
+P2| (b) of any means of transport used for the transport of goods or passengers; or
+P2| (c) of any article or goods from any means of transport used for the transport of goods or passengers; or
+P2| (d) of idol or icon in any place of worship; or
+P2| (e) of any property of the Government or of a local authority,
+P0| shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@SECTION 306 | Theft by clerk or servant of property in possession of master.
+P1| Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@SECTION 307 | Theft after preparation made for causing death, hurt or restraint in order to committing of theft.
+P1| Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.
+@ILLUSTRATION Illustrations.
+P1| (a) A commits theft on property in Z’s possession; and while committing this theft, he has a loaded pistol under his garment, having provided this pistol for the purpose of hurting Z in case Z should resist. A has committed the offence defined in this section.
+P1| (b) A picks Z’s pocket, having posted several of his companions near him, in order that they may restrain Z, if Z should perceive what is passing and should resist, or should attempt to apprehend A. A has committed the offence defined in this section.
+@HEADING Of extortion
+@SECTION 308 | Extortion.
+P1| (1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.
+@ILLUSTRATION Illustrations.
+P1| (a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion.
+P1| (b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion.
+P1| (c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion.

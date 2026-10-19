@@ -1,0 +1,20 @@
+@SECTION 301 | Trespassing on burial places, etc.
+P1| Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulchre, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+@SECTION 302 | Uttering words, etc., with deliberate intent to wound religious feelings of any person.
+P1| Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+@CHAPTER XVII
+@CHAPTER-TITLE OF OFFENCES AGAINST PROPERTY
+@HEADING Of theft
+@SECTION 303 | Theft.
+P1| (1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft.
+P1| Explanation 1.—A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth.
+P1| Explanation 2.—A moving effected by the same act which affects the severance may be a theft.
+P1| Explanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it.
+P1| Explanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal.
+P1| Explanation 5.—The consent mentioned in this section may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.
+@ILLUSTRATION Illustrations.
+P1| (a) A cuts down a tree on Z’s ground, with the intention of dishonestly taking the tree out of Z’s possession without Z’s consent. Here, as soon as A has severed the tree in order to such taking, he has committed theft.
+P1| (b) A puts a bait for dogs in his pocket, and thus induces Z’s dog to follow it. Here, if A’s intention is dishonestly to take the dog out of Z’s possession without Z’s consent. A has committed theft as soon as Z’s dog has begun to follow A.
+P1| (c) A meets a bullock carrying a box of treasure. He drives the bullock in a certain direction, in order that he may dishonestly take the treasure. As soon as the bullock begins to move, A has committed theft of the treasure.
+P1| (d) A being Z’s servant, and entrusted by Z with the care of Z’s plate, dishonestly runs away with the plate, without Z’s consent. A has committed theft.
+P1| (e) Z, going on a journey, entrusts his plate to A, the keeper of a warehouse, till Z shall return. A carries the plate to a goldsmith and sells it. Here the plate was not in Z’s possession. It could not therefore be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.

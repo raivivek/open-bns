@@ -1,0 +1,20 @@
+@SECTION 233 | Using evidence known to be false.
+P1| Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.
+@SECTION 234 | Issuing or signing false certificate.
+P1| Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.
+@SECTION 235 | Using as true a certificate known to be false.
+P1| Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+@SECTION 236 | False statement made in declaration which is by law receivable as evidence.
+P1| Whoever, in any declaration made or subscribed by him, which declaration any Court or any public servant or other person, is bound or authorised by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence.
+@SECTION 237 | Using as true such declaration knowing it to be false.
+P1| Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+P1| Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of section 236 and this section.
+@SECTION 238 | Causing disappearance of evidence of offence, or giving false information to screen offender.
+P1| Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,––
+P2| (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;
+P2| (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;
+P2| (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both.
+@ILLUSTRATION Illustration.
+P1| A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment of either description for seven years, and also to fine.
+@SECTION 239 | Intentional omission to give information of offence by person bound to inform.
+P1| Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.

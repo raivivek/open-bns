@@ -1,0 +1,23 @@
+P1| (3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.
+P1| (4) Any person liable, by any law for the time being in force in India, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Sanhita for any act committed beyond India in the same manner as if such act had been committed within India.
+P1| (5) The provisions of this Sanhita shall also apply to any offence committed by—
+P2| (a) any citizen of India in any place without and beyond India;
+P2| (b) any person on any ship or aircraft registered in India wherever it may be;
+P2| (c) any person in any place without and beyond India committing offence targeting a computer resource located in India.
+P1| Explanation.—In this section, the word “offence” includes every act committed outside India which, if committed in India, would be punishable under this Sanhita.
+@ILLUSTRATION Illustration.
+P1| A, who is a citizen of India, commits a murder in any place without and beyond India. He can be tried and convicted of murder in any place in India in which he may be found.
+P1| (6) Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law.
+@SECTION 2 | Definitions.
+P1| In this Sanhita, unless the context otherwise requires,––
+P2| (1) “act” denotes as well a series of acts as a single act;
+P2| (2) “animal” means any living creature, other than a human being;
+P2| (3) “child” means any person below the age of eighteen years;
+P2| (4) “counterfeit”.––A person is said to “counterfeit” who causes one thing to resemble another thing, intending by means of that resemblance to practise deception, or knowing it to be likely that deception will thereby be practised.
+P2| Explanation 1.—It is not essential to counterfeiting that the imitation should be exact.
+P2| Explanation 2.—When a person causes one thing to resemble another thing, and the resemblance is such that a person might be deceived thereby, it shall be presumed, until the contrary is proved, that the person so causing the one thing to resemble the other thing intended by means of that resemblance to practise deception or knew it to be likely that deception would thereby be practised;
+P2| (5) “Court” means a Judge who is empowered by law to act judicially alone, or a body of Judges which is empowered by law to act judicially as a body, when such Judge or body of Judges is acting judicially;
+P2| (6) “death” means the death of a human being unless the contrary appears from the context;
+P2| (7) “dishonestly” means doing anything with the intention of causing wrongful gain to one person or wrongful loss to another person;
+P2| (8) “document” means any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, and includes electronic and digital record, intended to be used, or which may be used, as evidence of that matter.
+P2| Explanation 1.—It is immaterial by what means or upon what substance the letters, figures or marks are formed, or whether the evidence is intended for, or may be used in a Court or not.

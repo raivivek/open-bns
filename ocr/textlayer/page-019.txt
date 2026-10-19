@@ -1,0 +1,19 @@
+@ILLUSTRATION Illustration.
+P1| A, in country X, instigates B, to commit a murder in India, A is guilty of abetting murder.
+@SECTION 49 | Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.
+P1| Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Sanhita for the punishment of such abetment, be punished with the punishment provided for the offence.
+P1| Explanation.—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy, or with the aid which constitutes the abetment.
+@ILLUSTRATION Illustrations.
+P1| (a) A instigates B to give false evidence. B, in consequence of the instigation, commits that offence. A is guilty of abetting that offence, and is liable to the same punishment as B.
+P1| (b) A and B conspire to poison Z. A, in pursuance of the conspiracy, procures the poison and delivers it to B in order that he may administer it to Z. B, in pursuance of the conspiracy, administers the poison to Z in A’s absence and thereby causes Z’s death. Here B is guilty of murder. A is guilty of abetting that offence by conspiracy, and is liable to the punishment for murder.
+@SECTION 50 | Punishment of abetment if person abetted does act with different intention from that of abettor.
+P1| Whoever abets the commission of an offence shall, if the person abetted does the act with a different intention or knowledge from that of the abettor, be punished with the punishment provided for the offence which would have been committed if the act had been done with the intention or knowledge of the abettor and with no other.
+@SECTION 51 | Liability of abettor when one act abetted and different act done.
+P1| When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner and to the same extent as if he had directly abetted it:
+P1| Provided that the act done was a probable consequence of the abetment, and was committed under the influence of the instigation, or with the aid or in pursuance of the conspiracy which constituted the abetment.
+@ILLUSTRATION Illustrations.
+P1| (a) A instigates a child to put poison into the food of Z, and gives him poison for that purpose. The child, in consequence of the instigation, by mistake puts the poison into the food of Y, which is by the side of that of Z. Here, if the child was acting under the influence of A’s instigation, and the act done was under the circumstances a probable consequence of the abetment, A is liable in the same manner and to the same extent as if he had instigated the child to put the poison into the food of Y.
+P1| (b) A instigates B to burn Z’s house, B sets fire to the house and at the same time commits theft of property there. A, though guilty of abetting the burning of the house, is not guilty of abetting the theft; for the theft was a distinct act, and not a probable consequence of the burning.
+P1| (c) A instigates B and C to break into an inhabited house at midnight for the purpose of robbery, and provides them with arms for that purpose. B and C break into the house, and being resisted by Z, one of the inmates, murder Z. Here, if that murder was the probable consequence of the abetment, A is liable to the punishment provided for murder.
+@SECTION 52 | Abettor when liable to cumulative punishment for act abetted and for act done.
+P1| If the act for which the abettor is liable under section 51 is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences.

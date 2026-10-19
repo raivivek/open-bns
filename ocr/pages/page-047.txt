@@ -1,0 +1,17 @@
+P2| (f) by inducement, including the giving or receiving of payments or benefits, in order to achieve the consent of any person having control over the person recruited, transported, harboured, transferred or received,
+P1| commits the offence of trafficking.
+P1| Explanation 1.—The expression “exploitation” shall include any act of physical exploitation or any form of sexual exploitation, slavery or practices similar to slavery, servitude, beggary or forced removal of organs.
+P1| Explanation 2.—The consent of the victim is immaterial in determination of the offence of trafficking.
+P1| (2) Whoever commits the offence of trafficking shall be punished with rigorous imprisonment for a term which shall not be less than seven years, but which may extend to ten years, and shall also be liable to fine.
+P1| (3) Where the offence involves the trafficking of more than one person, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine.
+P1| (4) Where the offence involves the trafficking of a child, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.
+P1| (5) Where the offence involves the trafficking of more than one child, it shall be punishable with rigorous imprisonment for a term which shall not be less than fourteen years, but which may extend to imprisonment for life, and shall also be liable to fine.
+P1| (6) If a person is convicted of the offence of trafficking of a child on more than one occasion, then such person shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine.
+P1| (7) When a public servant or a police officer is involved in the trafficking of any person then, such public servant or police officer shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine.
+@SECTION 144 | Exploitation of a trafficked person.
+P1| (1) Whoever, knowingly or having reason to believe that a child has been trafficked, engages such child for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than five years, but which may extend to ten years, and shall also be liable to fine.
+P1| (2) Whoever, knowingly or having reason to believe that a person has been trafficked, engages such person for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.
+@SECTION 145 | Habitual dealing in slaves.
+P1| Whoever habitually imports, exports, removes, buys, sells, traffics or deals in slaves, shall be punished with imprisonment for life, or with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.
+@SECTION 146 | Unlawful compulsory labour.
+P1| Whoever unlawfully compels any person to labour against the will of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.

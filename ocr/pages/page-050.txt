@@ -1,0 +1,27 @@
+@SECTION 162 | Abetment of such assault, if assault committed.
+P1| Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@SECTION 163 | Abetment of desertion of soldier, sailor or airman.
+P1| Whoever abets the desertion of any officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 164 | Harbouring deserter.
+P1| Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, has deserted, harbours such officer, soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine or with both.
+P1| Exception.—This provision does not extend to the case in which the harbour is given by the spouse of the deserter.
+@SECTION 165 | Deserter concealed on board merchant vessel through negligence of master.
+P1| The master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding three thousand rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+@SECTION 166 | Abetment of act of insubordination by soldier, sailor or airman.
+P1| Whoever abets what he knows to be an act of insubordination by an officer, soldier, sailor or airman, in the Army, Navy or Air Force, of the Government of India, shall, if such act of insubordination be committed in consequence of that abetment, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 167 | Persons subject to certain Acts.
+P1| No person subject to the Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957, or shall be subject to punishment under this Sanhita for any of the offences defined in this Chapter.
+@REF 45 of 1950.
+@REF 46 of 1950.
+@REF 62 of 1957.
+@SECTION 168 | Wearing garb or carrying token used by soldier, sailor or airman.
+P1| Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.
+@CHAPTER IX
+@CHAPTER-TITLE OF OFFENCES RELATING TO ELECTIONS
+@SECTION 169 | Candidate, electoral right defined.
+P1| For the purposes of this Chapter––
+P2| (a) “candidate” means a person who has been nominated as a candidate at any election;
+P2| (b) “electoral right” means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate or to vote or refrain from voting at an election.
+@SECTION 170 | Bribery.
+P1| (1) Whoever––
+P2| (i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or

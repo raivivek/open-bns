@@ -1,0 +1,23 @@
+C| death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;
+P2| (c) the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity;
+P2| (d) the abetment of any offence, to the committing of which offence it would not extend.
+@ILLUSTRATION Illustration.
+P1| A, in good faith, for his child’s benefit without his child’s consent, has his child cut for the stone by a surgeon knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death. A is within the exception, in as much as his object was the cure of the child.
+@SECTION 28 | Consent known to be given under fear or misconception.
+P1| A consent is not such a consent as is intended by any section of this Sanhita,––
+P2| (a) if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception; or
+P2| (b) if the consent is given by a person who, from unsoundness of mind, or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or
+P2| (c) unless the contrary appears from the context, if the consent is given by a person who is under twelve years of age.
+@SECTION 29 | Exclusion of acts which are offences independently of harm caused.
+P1| The exceptions in sections 25, 26 and 27 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person giving the consent, or on whose behalf the consent is given.
+@ILLUSTRATION Illustration.
+P1| Causing miscarriage (unless caused in good faith for the purpose of saving the life of the woman) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore, it is not an offence “by reason of such harm”; and the consent of the woman or of her guardian to the causing of such miscarriage does not justify the act.
+@SECTION 30 | Act done in good faith for benefit of a person without consent.
+P1| Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person’s consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it is possible to obtain consent in time for the thing to be done with benefit:
+P1| Provided that this exception shall not extend to––
+P2| (a) the intentional causing of death, or the attempting to cause death;
+P2| (b) the doing of anything which the person doing it knows to be likely to cause death, for any purpose other than the preventing of death or grievous hurt, or the curing of any grievous disease or infirmity;
+P2| (c) the voluntary causing of hurt, or to the attempting to cause hurt, for any purpose other than the preventing of death or hurt;
+P2| (d) the abetment of any offence, to the committing of which offence it would not extend.
+@ILLUSTRATION Illustrations.
+P1| (1) Z is thrown from his horse, and is insensible. A, a surgeon, finds that Z requires to

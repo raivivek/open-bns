@@ -1,0 +1,20 @@
+P1| (b) A, a police officer, whose duty it is to prevent robbery, abets the commission of robbery. Here, though the robbery be not committed, A is liable to one-half of the longest term of imprisonment provided for that offence, and also to fine.
+P1| (c) B abets the commission of a robbery by A, a police officer, whose duty it is to prevent that offence. Here, though the robbery be not committed, B is liable to one-half of the longest term of imprisonment provided for the offence of robbery, and also to fine.
+@SECTION 57 | Abetting commission of offence by public or by more than ten persons.
+P1| Whoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to seven years and with fine.
+@ILLUSTRATION Illustration.
+P1| A affixes in a public place a placard instigating a sect consisting of more than ten members to meet at a certain time and place, for the purpose of attacking the members of an adverse sect, while engaged in a procession. A has committed the offence defined in this section.
+@SECTION 58 | Concealing design to commit offence punishable with death or imprisonment for life.
+P1| Whoever intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with death or imprisonment for life, voluntarily conceals by any act or omission, or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence or makes any representation which he knows to be false respecting such design shall,—
+P2| (a) if that offence be committed, be punished with imprisonment of either description for a term which may extend to seven years; or
+P2| (b) if the offence be not committed, with imprisonment of either description, for a term which may extend to three years,
+P1| and shall also be liable to fine.
+@ILLUSTRATION Illustration.
+P1| A, knowing that dacoity is about to be committed at B, falsely informs the Magistrate that a dacoity is about to be committed at C, a place in an opposite direction, and thereby misleads the Magistrate with intent to facilitate the commission of the offence. The dacoity is committed at B in pursuance of the design. A is punishable under this section.
+@SECTION 59 | Public servant concealing design to commit offence which it is his duty to prevent.
+P1| Whoever, being a public servant, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence which it is his duty as such public servant to prevent, voluntarily conceals, by any act or omission or by the use of encryption or any other information hiding tool, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,—
+P2| (a) if the offence be committed, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the longest term of such imprisonment, or with such fine as is provided for that offence, or with both; or
+P2| (b) if the offence be punishable with death or imprisonment for life, with imprisonment of either description for a term which may extend to ten years; or
+P2| (c) if the offence be not committed, shall be punished with imprisonment of any description provided for the offence for a term which may extend to one-fourth part of the longest term of such imprisonment or with such fine as is provided for the offence, or with both.
+@ILLUSTRATION Illustration.
+P1| A, an officer of police, being legally bound to give information of all designs to commit robbery which may come to his knowledge, and knowing that B designs to commit robbery, omits to give such information, with intent to so facilitate the commission of that offence.

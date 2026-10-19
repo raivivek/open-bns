@@ -1,0 +1,14 @@
+[project]
+name = "bns"
+version = "0.1.0"
+description = "Browsable, citable Bharatiya Nyaya Sanhita, 2023 built from the official Gazette"
+license = "CC0-1.0"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+# Only the extraction stages read the PDF; parse/site/tests need the stdlib alone.
+extract = ["pymupdf>=1.24"]
+
+[tool.setuptools]
+packages = ["bns"]

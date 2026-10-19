@@ -1,0 +1,22 @@
+C| Here A has by an illegal omission concealed the existence of B’s design, and is liable to punishment according to the provision of this section.
+@SECTION 60 | Concealing design to commit offence punishable with imprisonment.
+P1| Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design shall,—
+P2| (a) if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth; and
+P2| (b) if the offence be not committed, to one-eighth,
+P1| of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.
+@HEADING Of criminal conspiracy
+@SECTION 61 | Criminal conspiracy.
+P1| (1) When two or more persons agree with the common object to do, or cause to be done—
+P2| (a) an illegal act; or
+P2| (b) an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy:
+P1| Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.
+P1| Explanation.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
+P1| (2) Whoever is a party to a criminal conspiracy,—
+P2| (a) to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Sanhita for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence;
+P2| (b) other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both.
+@HEADING Of attempt
+@SECTION 62 | Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.
+P1| Whoever attempts to commit an offence punishable by this Sanhita with imprisonment for life or imprisonment, or to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Sanhita for the punishment of such attempt, be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both.
+@ILLUSTRATION Illustrations.
+P1| (a) A makes an attempt to steal some jewels by breaking open a box, and finds after so opening the box, that there is no jewel in it. He has done an act towards the commission of theft, and therefore is guilty under this section.
+P1| (b) A makes an attempt to pick the pocket of Z by thrusting his hand into Z’s pocket. A fails in the attempt in consequence of Z’s having nothing in his pocket. A is guilty under this section.

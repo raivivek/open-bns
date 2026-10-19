@@ -1,0 +1,18 @@
+@SECTION 210 | Omission to produce document or electronic record to public servant by person legally bound to produce it.
+P1| Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same,—
+P2| (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+P2| (b) and where the document or electronic record is to be produced or delivered up to a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.
+@ILLUSTRATION Illustration.
+P1| A, being legally bound to produce a document before a District Court, intentionally omits to produce the same. A has committed the offence defined in this section.
+@SECTION 211 | Omission to give notice or information to public servant by person legally bound to give it.
+P1| Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law,—
+P2| (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both;
+P2| (b) where the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both;
+P2| (c) where the notice or information required to be given is required by an order passed under section 394 of the Bharatiya Nagarik Suraksha Sanhita, 2023 with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+@SECTION 212 | Furnishing false information.
+P1| Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false,—
+P2| (a) shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both;
+P2| (b) where the information which he is legally bound to give respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@ILLUSTRATION Illustrations.
+P2| (a) A, a landholder, knowing of the commission of a murder within the limits of his estate, wilfully misinforms the Magistrate of the district that the death has occurred by accident in consequence of the bite of a snake. A is guilty of the offence defined in this section.
+P2| (b) A, a village watchman, knowing that a considerable body of strangers has passed through his village in order to commit a dacoity in the house of Z, a wealthy merchant residing in a neighbouring place, and being legally bound to give early and punctual information of the above fact to the officer of the nearest police station, wilfully misinforms the police officer that a body of suspicious characters passed through the village with a view to commit dacoity in a certain distant place in a different direction. Here A is guilty of the offence defined in this section.

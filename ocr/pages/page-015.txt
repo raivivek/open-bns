@@ -1,0 +1,21 @@
+C| person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.
+@SECTION 36 | Right of private defence against act of a person of unsound mind, etc.
+P1| When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
+@ILLUSTRATION Illustrations.
+P1| (a) Z, a person of unsound mind, attempts to kill A; Z is guilty of no offence. But A has the same right of private defence which he would have if Z were sane.
+P1| (b) A enters by night a house which he is legally entitled to enter. Z, in good faith, taking A for a house-breaker, attacks A. Here Z, by attacking A under this misconception, commits no offence. But A has the same right of private defence against Z, which he would have if Z were not acting under that misconception.
+@SECTION 37 | Acts against which there is no right of private defence.
+P1| (1) There is no right of private defence,—
+P2| (a) against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act, may not be strictly justifiable by law;
+P2| (b) against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office, though that direction may not be strictly justifiable by law;
+P2| (c) in cases in which there is time to have recourse to the protection of the public authorities.
+P1| (2) The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence.
+P1| Explanation 1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows or has reason to believe, that the person doing the act is such public servant.
+P1| Explanation 2.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction, or unless such person states the authority under which he acts, or if he has authority in writing, unless he produces such authority, if demanded.
+@SECTION 38 | When right of private defence of body extends to causing death.
+P1| The right of private defence of the body extends, under the restrictions specified in section 37, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:—
+P2| (a) such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;
+P2| (b) such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;
+P2| (c) an assault with the intention of committing rape;
+P2| (d) an assault with the intention of gratifying unnatural lust;
+P2| (e) an assault with the intention of kidnapping or abducting;

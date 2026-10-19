@@ -1,0 +1,23 @@
+P1| (7) Whoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+P1| (8) If, at the time of the committing of lurking house-trespass or house-breaking after sunset and before sunrise, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+@SECTION 332 | House-trespass in order to commit offence.
+P1| Whoever commits house-trespass in order to the committing of any offence––
+P2| (a) punishable with death, shall be punished with imprisonment for life, or with rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine;
+P2| (b) punishable with imprisonment for life, shall be punished with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine;
+P2| (c) punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine:
+P1| Provided that if the offence intended to be committed is theft, the term of the imprisonment may be extended to seven years.
+@SECTION 333 | House-trespass after preparation for hurt, assault or wrongful restraint.
+P1| Whoever commits house-trespass, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+@SECTION 334 | Dishonestly breaking open receptacle containing property.
+P1| (1) Whoever dishonestly or with intent to commit mischief, breaks open or unfastens any closed receptacle which contains or which he believes to contain property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+P1| (2) Whoever, being entrusted with any closed receptacle which contains or which he believes to contain property, without having authority to open the same, dishonestly, or with intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+@CHAPTER XVIII
+@CHAPTER-TITLE OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS
+@SECTION 335 | Making a false document.
+P1| A person is said to make a false document or false electronic record—
+P2| (A) Who dishonestly or fraudulently—
+P3| (i) makes, signs, seals or executes a document or part of a document;
+P3| (ii) makes or transmits any electronic record or part of any electronic record;
+P3| (iii) affixes any electronic signature on any electronic record;
+P3| (iv) makes any mark denoting the execution of a document or the authenticity of the electronic signature,
+P1| with the intention of causing it to be believed that such document or part of document, electronic record or electronic signature was made, signed, sealed, executed, transmitted or affixed by or by the authority of a person by whom or

@@ -1,0 +1,21 @@
+P2| (29) “reason to believe”.—A person is said to have “reason to believe” a thing, if he has sufficient cause to believe that thing but not otherwise;
+P2| (30) “special law” means a law applicable to a particular subject;
+P2| (31) “valuable security” means a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+@ILLUSTRATION Illustration.
+P1| A writes his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”;
+P2| (32) “vessel” means anything made for the conveyance by water of human beings or of property;
+P2| (33) “voluntarily”.—A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
+@ILLUSTRATION Illustration.
+P1| A sets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery and thus causes the death of a person. Here, A may not have intended to cause death; and may even be sorry that death has been caused by his act; yet, if he knew that he was likely to cause death, he has caused death voluntarily;
+P2| (34) “will” means any testamentary document;
+P2| (35) “woman” means a female human being of any age;
+P2| (36) “wrongful gain” means gain by unlawful means of property to which the person gaining is not legally entitled;
+P2| (37) “wrongful loss” means the loss by unlawful means of property to which the person losing it is legally entitled;
+P2| (38) “gaining wrongfully” and “losing wrongfully”.—A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property; and
+P2| (39) words and expressions used but not defined in this Sanhita but defined in the Information Technology Act, 2000 and the Bharatiya Nagarik Suraksha Sanhita, 2023 shall have the meanings respectively assigned to them in that Act and Sanhita.
+@REF 21 of 2000.
+@SECTION 3 | General explanations.
+P1| (1) Throughout this Sanhita every definition of an offence, every penal provision, and every Illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision, or Illustration.
+@ILLUSTRATION Illustrations.
+P2| (a) The sections in this Sanhita, which contain definitions of offences, do not express that a child under seven years of age cannot commit such offences; but the definitions are to be understood subject to the general exception which provides that nothing shall be an offence which is done by a child under seven years of age.
+P2| (b) A, a police officer, without warrant, apprehends Z, who has committed murder. Here A is not guilty of the offence of wrongful confinement; for he was bound by law to apprehend Z, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.

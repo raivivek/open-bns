@@ -1,0 +1,23 @@
+@SECTION 20 | Act of a child under seven years of age.
+P1| Nothing is an offence which is done by a child under seven years of age.
+@SECTION 21 | Act of a child above seven and under twelve years of age of immature understanding.
+P1| Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.
+@SECTION 22 | Act of a person of unsound mind.
+P1| Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+@SECTION 23 | Act of a person incapable of judgment by reason of intoxication caused against his will.
+P1| Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong, or contrary to law; provided that the thing which intoxicated him was administered to him without his knowledge or against his will.
+@SECTION 24 | Offence requiring a particular intent or knowledge committed by one who is intoxicated.
+P1| In cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will.
+@SECTION 25 | Act not intended and not known to be likely to cause death or grievous hurt, done by consent.
+P1| Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person, above eighteen years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.
+@ILLUSTRATION Illustration.
+P1| A and Z agree to fence with each other for amusement. This agreement implies the consent of each to suffer any harm which, in the course of such fencing, may be caused without foul play; and if A, while playing fairly, hurts Z, A commits no offence.
+@SECTION 26 | Act not intended to cause death, done by consent in good faith for person's benefit.
+P1| Nothing, which is not intended to cause death, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to any person for whose benefit it is done in good faith, and who has given a consent, whether express or implied, to suffer that harm, or to take the risk of that harm.
+@ILLUSTRATION Illustration.
+P1| A, a surgeon, knowing that a particular operation is likely to cause the death of Z, who suffers under the painful complaint, but not intending to cause Z’s death, and intending, in good faith, Z’s benefit, performs that operation on Z, with Z’s consent. A has committed no offence.
+@SECTION 27 | Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.
+P1| Nothing which is done in good faith for the benefit of a person under twelve years of age, or person of unsound mind, by, or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person:
+P1| Provided that this exception shall not extend to––
+P2| (a) the intentional causing of death, or to the attempting to cause death;
+P2| (b) the doing of anything which the person doing it knows to be likely to cause

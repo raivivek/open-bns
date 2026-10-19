@@ -1,0 +1,25 @@
+@SECTION 89 | Causing miscarriage without woman's consent.
+P1| Whoever commits the offence under section 88 without the consent of the woman, whether the woman is quick with child or not, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+@SECTION 90 | Death caused by act done with intent to cause miscarriage.
+P1| (1) Whoever, with intent to cause the miscarriage of a woman with child, does any act which causes the death of such woman, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+P1| (2) Where the act referred to in sub-section (1) is done without the consent of the woman, shall be punishable either with imprisonment for life, or with the punishment specified in said sub-section.
+P1| Explanation.—It is not essential to this offence that the offender should know that the act is likely to cause death.
+@SECTION 91 | Act done with intent to prevent child being born alive or to cause it to die after birth.
+P1| Whoever before the birth of any child does any act with the intention of thereby preventing that child from being born alive or causing it to die after its birth, and does by such act prevent that child from being born alive, or causes it to die after its birth, shall, if such act be not caused in good faith for the purpose of saving the life of the mother, be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both.
+@SECTION 92 | Causing death of quick unborn child by act amounting to culpable homicide.
+P1| Whoever does any act under such circumstances, that if he thereby caused death he would be guilty of culpable homicide, and does by such act cause the death of a quick unborn child, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+@ILLUSTRATION Illustration.
+P1| A, knowing that he is likely to cause the death of a pregnant woman, does an act which, if it caused the death of the woman, would amount to culpable homicide. The woman is injured, but does not die; but the death of an unborn quick child with which she is pregnant is thereby caused. A is guilty of the offence defined in this section.
+@HEADING Of offences against child
+@SECTION 93 | Exposure and abandonment of child under twelve years of age, by parent or person having care of it.
+P1| Whoever being the father or mother of a child under the age of twelve years, or having the care of such child, shall expose or leave such child in any place with the intention of wholly abandoning such child, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+P1| Explanation.—This section is not intended to prevent the trial of the offender for murder or culpable homicide, as the case may be, if the child die in consequence of the exposure.
+@SECTION 94 | Concealment of birth by secret disposal of dead body.
+P1| Whoever, by secretly burying or otherwise disposing of the dead body of a child whether such child die before or after or during its birth, intentionally conceals or endeavours to conceal the birth of such child, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 95 | Hiring, employing or engaging a child to commit an offence.
+P1| Whoever hires, employs or engages any child to commit an offence shall be punished with imprisonment of either description which shall not be less than three years but which may extend to ten years, and with fine; and if the offence be committed shall also be punished with the punishment provided for that offence as if the offence has been committed by such person himself.
+P1| Explanation.—Hiring, employing, engaging or using a child for sexual exploitation or pornography is covered within the meaning of this section.
+@SECTION 96 | Procuration of child.
+P1| Whoever, by any means whatsoever, induces any child to go from any place or to do any act with intent that such child may be, or knowing that it is likely that such child will be, forced or seduced to illicit intercourse with another person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.
+@SECTION 97 | Kidnapping or abducting child under ten years of age with intent to steal from its person.
+P1| Whoever kidnaps or abducts any child under the age of ten years with the intention of taking dishonestly any movable property from the person of such child, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.

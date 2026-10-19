@@ -1,0 +1,28 @@
+C| to kill him, and not having been subject to the provocation, assists A in killing Z. Here, though A and B are both engaged in causing Z’s death, B is guilty of murder, and A is guilty only of culpable homicide.
+@CHAPTER II
+@CHAPTER-TITLE OF PUNISHMENTS
+@SECTION 4 | Punishments.
+P1| The punishments to which offenders are liable under the provisions of this Sanhita are––
+P2| (a) Death;
+P2| (b) Imprisonment for life;
+P2| (c) Imprisonment, which is of two descriptions, namely:––
+P3| (1) Rigorous, that is, with hard labour;
+P3| (2) Simple;
+P2| (d) Forfeiture of property;
+P2| (e) Fine;
+P2| (f) Community Service.
+@SECTION 5 | Commutation of sentence.
+P1| The appropriate Government may, without the consent of the offender, commute any punishment under this Sanhita to any other punishment in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023.
+P1| Explanation.—For the purposes of this section the expression “appropriate Government” means,––
+P2| (a) in cases where the sentence is a sentence of death or is for an offence against any law relating to a matter to which the executive power of the Union extends, the Central Government; and
+P2| (b) in cases where the sentence (whether of death or not) is for an offence against any law relating to a matter to which the executive power of the State extends, the Government of the State within which the offender is sentenced.
+@SECTION 6 | Fractions of terms of punishment.
+P1| In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years unless otherwise provided.
+@SECTION 7 | Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.
+P1| In every case in which an offender is punishable with imprisonment which may be of either description, it shall be competent to the Court which sentences such offender to direct in the sentence that such imprisonment shall be wholly rigorous, or that such imprisonment shall be wholly simple, or that any part of such imprisonment shall be rigorous and the rest simple.
+@SECTION 8 | Amount of fine, liability in default of payment of fine, etc.
+P1| (1) Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive.
+P1| (2) In every case of an offence––
+P2| (a) punishable with imprisonment as well as fine, in which the offender is sentenced to a fine, whether with or without imprisonment;
+P2| (b) punishable with imprisonment or fine, or with fine only, in which the offender is sentenced to a fine,
+P1| it shall be competent to the Court which sentences such offender to direct by the sentence that, in default of payment of the fine, the offender shall suffer imprisonment for a certain term, in which imprisonment shall be in excess of any other imprisonment to which he may have been sentenced or to which he may be liable under a commutation of a sentence.

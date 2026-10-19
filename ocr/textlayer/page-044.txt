@@ -1,0 +1,20 @@
+P1| Explanation.—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparation such a meaning as may make those gestures or preparations amount to an assault.
+@ILLUSTRATION Illustrations.
+P1| (a) A shakes his fist at Z, intending or knowing it to be likely that he may thereby cause Z to believe that A is about to strike Z. A has committed an assault.
+P1| (b) A begins to unloose the muzzle of a ferocious dog, intending or knowing it to be likely that he may thereby cause Z to believe that he is about to cause the dog to attack Z. A has committed an assault upon Z.
+P1| (c) A takes up a stick, saying to Z, “I will give you a beating”. Here, though the words used by A could in no case amount to an assault, and though the mere gesture, unaccompanied by any other circumstances, might not amount to an assault, the gesture explained by the words may amount to an assault.
+@SECTION 131 | Punishment for assault or criminal force otherwise than on grave provocation.
+P1| Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.
+P1| Explanation 1.—Grave and sudden provocation will not mitigate the punishment for an offence under this section,—
+P2| (a) if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or
+P2| (b) if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or
+P2| (c) if the provocation is given by anything done in the lawful exercise of the right of private defence.
+P1| Explanation 2.—Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.
+@SECTION 132 | Assault or criminal force to deter public servant from discharge of his duty.
+P1| Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 133 | Assault or criminal force with intent to dishonour person, otherwise than on grave provocation.
+P1| Whoever assaults or uses criminal force to any person, intending thereby to dishonour that person, otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 134 | Assault or criminal force in attempt to commit theft of property carried by a person.
+P1| Whoever assaults or uses criminal force to any person, in attempting to commit theft on any property which that person is then wearing or carrying, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+@SECTION 135 | Assault or criminal force in attempt to wrongfully confine a person.
+P1| Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.

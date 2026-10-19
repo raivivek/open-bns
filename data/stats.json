@@ -1,0 +1,737 @@
+{
+ "generated": "2026-10-19",
+ "groups": [
+  {
+   "title": "At a glance",
+   "items": [
+    {
+     "label": "Sections",
+     "value": "358",
+     "detail": "The Bharatiya Nyaya Sanhita, 2023 contains 358 sections; the Indian Penal Code, 1860 it replaced had 511.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": "358. (1) The Indian Penal Code is hereby repealed.",
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), Gazette of India, Extraordinary",
+       "publisher": "Ministry of Law and Justice (via PRS Legislative Research)",
+       "date": "2023-12-25",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/The%20Bharatiya%20Nyaya%20Sanhita%2C%202023.pdf"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Chapters",
+     "value": "20",
+     "detail": "The Act as published in the Gazette is arranged in 20 chapters, from Chapter I (Preliminary) to Chapter XX (Repeal and Savings); the Ministry compares this with 23 chapters in the IPC.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": "Chapter XX: “REPEAL AND SAVINGS”",
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), Gazette of India, Extraordinary",
+       "publisher": "Ministry of Law and Justice (via PRS Legislative Research)",
+       "date": "2023-12-25",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/The%20Bharatiya%20Nyaya%20Sanhita%2C%202023.pdf"
+      }
+     ],
+     "note": "Some secondary publications describe the BNS as having 19 chapters, apparently not counting Chapter XX; the Gazette text has 20. The Delhi Police Academy handbook describes the IPC as having '23 + 3' chapters, reflecting chapters inserted into the IPC by later amendments (e.g. Chapter VA)."
+    },
+    {
+     "label": "In force from",
+     "value": "2024-07-01",
+     "detail": "The Act came into force on 1 July 2024, except sub-section (2) of section 106.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "1(2)",
+      "106(2)"
+     ],
+     "verified_text": "It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Sanhita.",
+     "sources": [
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      },
+      {
+       "title": "New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-12-10",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2082757"
+      }
+     ],
+     "note": null
+    }
+   ]
+  },
+  {
+   "title": "Legislative history",
+   "items": [
+    {
+     "label": "Introduced in Lok Sabha",
+     "value": "2023-08-11",
+     "detail": "The Bharatiya Nyaya Sanhita, 2023 (Bill No. 121 of 2023) was introduced in the Lok Sabha on 11 August 2023 and referred to the Standing Committee on Home Affairs.",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-sanhita-2023"
+      },
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 — Bill No. 121 of 2023, as introduced in Lok Sabha",
+       "publisher": "PRS Legislative Research",
+       "date": "2023-08-11",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/Bharatiya_Nyaya_Sanhita_2023_Bill_Text.pdf"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Standing Committee report",
+     "value": "2023-11-10",
+     "detail": "The Department-related Parliamentary Standing Committee on Home Affairs presented its 246th Report on the Bill to the Chairman, Rajya Sabha on 10 November 2023.",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Two Hundred Forty-Sixth Report on the Bharatiya Nyaya Sanhita, 2023",
+       "publisher": "Department-related Parliamentary Standing Committee on Home Affairs, Rajya Sabha Secretariat",
+       "date": "2023-11-10",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_Bharatiya_Nyaya_Sanhita_2023.pdf"
+      },
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-sanhita-2023"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "First Bill withdrawn; second Bill introduced",
+     "value": "2023-12-12",
+     "detail": "The first Bill was withdrawn and the Bharatiya Nyaya (Second) Sanhita, 2023 (Bill No. 173 of 2023) was introduced in the Lok Sabha on 12 December 2023.",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      },
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 — Bill No. 173 of 2023, as introduced in Lok Sabha",
+       "publisher": "PRS Legislative Research",
+       "date": "2023-12-12",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/Bharatiya_Nyay_(Second)_Sanhita_2023.pdf"
+      }
+     ],
+     "note": "PRS states that the second Bill incorporates certain recommendations of the Standing Committee."
+    },
+    {
+     "label": "Passed by Parliament",
+     "value": "2023-12-21",
+     "detail": "The Bharatiya Nyaya (Second) Sanhita, 2023 was passed by the Lok Sabha on 20 December 2023 and by the Rajya Sabha on 21 December 2023.",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      },
+      {
+       "title": "Union Home Minister … Shri Amit Shah replied to the discussion on the Bharatiya Nyaya (Second) Sanhita, 2023 … in the Lok Sabha today",
+       "publisher": "PIB",
+       "date": "2023-12-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1988913"
+      },
+      {
+       "title": "New criminal justice laws to be rolled out across India from July 1, 2024",
+       "publisher": "The New Indian Express",
+       "date": "2024-02-24",
+       "url": "https://www.newindianexpress.com/india/2024/Feb/24/new-criminal-justice-laws-to-be-rolled-out-across-india-from-july-12024"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Presidential assent",
+     "value": "2023-12-25",
+     "detail": "The Bill received the President's assent on 25 December 2023 and was published in the Gazette the same day.",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": "[25th December, 2023.]",
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), Gazette of India, Extraordinary",
+       "publisher": "Ministry of Law and Justice (via PRS Legislative Research)",
+       "date": "2023-12-25",
+       "url": "https://prsindia.org/files/bills_acts/bills_parliament/2023/The%20Bharatiya%20Nyaya%20Sanhita%2C%202023.pdf"
+      },
+      {
+       "title": "New criminal justice laws to be rolled out across India from July 1, 2024",
+       "publisher": "The New Indian Express",
+       "date": "2024-02-24",
+       "url": "https://www.newindianexpress.com/india/2024/Feb/24/new-criminal-justice-laws-to-be-rolled-out-across-india-from-july-12024"
+      },
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Commencement notification",
+     "value": "2024-02-23",
+     "detail": "By notification S.O. 850(E) dated 23 February 2024, the Central Government appointed 1 July 2024 as the date of commencement of all provisions except section 106(2).",
+     "attribution": null,
+     "provisions": [
+      "1(2)",
+      "106(2)"
+     ],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Govt. Notifies July 1, 2024 as the Effective Date for Enforcement of Provisions of Bharatiya Nyaya Sanhita, 2023",
+       "publisher": "Taxmann",
+       "date": "2024-02-27",
+       "url": "https://www.taxmann.com/post/blog/govt-notifies-the-effective-date-for-enforcement-of-provisions-of-bharatiya-nyaya-sanhita"
+      },
+      {
+       "title": "New criminal justice laws to be rolled out across India from July 1, 2024",
+       "publisher": "The New Indian Express",
+       "date": "2024-02-24",
+       "url": "https://www.newindianexpress.com/india/2024/Feb/24/new-criminal-justice-laws-to-be-rolled-out-across-india-from-july-12024"
+      },
+      {
+       "title": "Three criminal laws to be effective from July 1",
+       "publisher": "The Hindu",
+       "date": "2024-02-24",
+       "url": "https://www.thehindu.com/news/national/three-newly-enacted-criminal-laws-to-come-into-effect-from-july-1/article67881602.ece"
+      }
+     ],
+     "note": null
+    }
+   ]
+  },
+  {
+   "title": "Reported changes from the IPC",
+   "items": [
+    {
+     "label": "New offences added",
+     "value": "20",
+     "detail": "20 new offences have been added in the BNS.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      },
+      {
+       "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज लोक सभा में भारतीय न्याय (द्वितीय) संहिता 2023 … (Hindi release)",
+       "publisher": "PIB",
+       "date": "2023-12-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1988899"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "IPC provisions deleted",
+     "value": "19",
+     "detail": "19 provisions that existed in the IPC have been deleted.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      },
+      {
+       "title": "Union Home Minister … Shri Amit Shah replied to the discussion on the Bharatiya Nyaya (Second) Sanhita, 2023 … in the Lok Sabha today",
+       "publisher": "PIB",
+       "date": "2023-12-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1988913"
+      }
+     ],
+     "note": "The Delhi Police Academy BNS handbook gives the figure as 20 deleted IPC provisions."
+    },
+    {
+     "label": "Offences with increased imprisonment",
+     "value": "33",
+     "detail": "The punishment of imprisonment has been increased in 33 offences.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Offences with increased fines",
+     "value": "83",
+     "detail": "The fine has been increased in 83 offences.",
+     "attribution": "As reported by the Delhi Police Academy BNS handbook and the Financial Express",
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      }
+     ],
+     "note": "This figure was not found in a PIB or Ministry of Home Affairs document."
+    },
+    {
+     "label": "Offences with a mandatory minimum punishment introduced",
+     "value": "23",
+     "detail": "A mandatory minimum punishment has been introduced in 23 offences.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      },
+      {
+       "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज लोक सभा में भारतीय न्याय (द्वितीय) संहिता 2023 … (Hindi release)",
+       "publisher": "PIB",
+       "date": "2023-12-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1988899"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Offences punishable with community service",
+     "value": "6",
+     "detail": "Community service is added to the list of punishments in section 4 and is provided for six offences: public servant unlawfully engaging in trade, non-appearance in response to a proclamation, attempt to commit suicide to compel or restrain a public servant, first-time petty theft on restoration of property, misconduct in public by a drunken person, and defamation.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "4(f)",
+      "202",
+      "209",
+      "226",
+      "303(2)-proviso-1",
+      "355",
+      "356(2)"
+     ],
+     "verified_text": "4. … (f) Community Service. / 356(2) … or with fine, or with both, or with community service.",
+     "sources": [
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      },
+      {
+       "title": "Explained: Bharatiya Nyaya Sanhita, the new IPC, and the concerns around it",
+       "publisher": "Financial Express",
+       "date": "2023-12-21",
+       "url": "https://www.financialexpress.com/india-news/what-issues-surround-bharatiya-nyaya-sanhita-criminal-bill-ipc/3344566/"
+      },
+      {
+       "title": "Union Home Minister … Shri Amit Shah replied to the discussion on the Bharatiya Nyaya (Second) Sanhita, 2023 … in the Lok Sabha today",
+       "publisher": "PIB",
+       "date": "2023-12-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1988913"
+      }
+     ],
+     "note": "The Delhi Police Academy handbook cites the petty-theft provision as 'u/s 302 BNS'; in the Act text it is the proviso to section 303(2). The PIB presentation of May 2024 lists five of these situations, omitting section 209. The words 'or with community service' appear in sections 202, 209, 226 and 355, and section 303(2) provides that the offender 'shall be punished with community service'."
+    },
+    {
+     "label": "'Gender' includes transgender",
+     "value": "Section 2(10)",
+     "detail": "The definition of 'gender' refers to any person, whether male, female or transgender.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "2(10)"
+     ],
+     "verified_text": "“gender”.—The pronoun “he” and its derivatives are used of any person, whether male, female or transgender.",
+     "sources": [
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Chapter on offences against woman and child",
+     "value": "Chapter V (ss. 63–99)",
+     "detail": "Offences against woman and child are grouped in a new Chapter V, placed before the chapter on offences affecting the human body.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "63",
+      "99"
+     ],
+     "verified_text": "Chapter V: “OF OFFENCES AGAINST WOMAN AND CHILD”",
+     "sources": [
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita in place of Indian Penal Code",
+       "publisher": "PIB",
+       "date": "2025-03-26",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115169"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "IPC sedition offence not reproduced",
+     "value": "Section 152",
+     "detail": "The BNS does not contain the IPC offence of sedition (section 124A); it contains an offence of acts endangering the sovereignty, unity and integrity of India (section 152).",
+     "attribution": null,
+     "provisions": [
+      "152"
+     ],
+     "verified_text": "Whoever, purposely or knowingly, … excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India …",
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "Key Features of the New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2025-08-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158411"
+      }
+     ],
+     "note": "The word 'sedition' does not appear in the BNS text. PRS notes that the new offence may retain aspects of the sedition offence."
+    },
+    {
+     "label": "Adultery and IPC section 377 not retained",
+     "value": "Omitted",
+     "detail": "The BNS does not include the IPC offences of adultery (IPC section 497) and intercourse 'against the order of nature' (IPC section 377).",
+     "attribution": null,
+     "provisions": [],
+     "verified_text": null,
+     "sources": [
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      }
+     ],
+     "note": "Verified by absence: neither 'adultery' nor 'order of nature' occurs in the Act text. PRS notes that omitting section 377 also removes the offences of rape of men and bestiality that it had covered."
+    }
+   ],
+   "note": "Official figures differ between releases: the English PIB release of the Home Minister's Lok Sabha reply on 20 December 2023 gave 21 new offences, imprisonment increased in 41, fines increased in 82, a mandatory minimum in 25, community service in 6 and 19 sections repealed; the Hindi release of the same reply gave 20 new offences, a mandatory minimum in 23, community service in 6 and 19 repealed."
+  },
+  {
+   "title": "Provisions in the news",
+   "items": [
+    {
+     "label": "Murder by a group on identity grounds",
+     "value": "Section 103(2)",
+     "detail": "Murder by a group of five or more persons acting in concert on grounds such as race, caste or community, sex, place of birth, language or personal belief is punishable with death or imprisonment for life; the Government describes this as the offence of mob lynching.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "103(2)"
+     ],
+     "verified_text": "When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life …",
+     "sources": [
+      {
+       "title": "Provisions under BNS",
+       "publisher": "PIB",
+       "date": "2026-03-11",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238240"
+      },
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Hit-and-run provision held back",
+     "value": "Section 106(2)",
+     "detail": "Section 106(2), which provides up to ten years' imprisonment for causing death by rash and negligent driving and escaping without reporting it, was excluded from the 1 July 2024 commencement after a nationwide strike by transporters and drivers in January 2024.",
+     "attribution": null,
+     "provisions": [
+      "106(2)"
+     ],
+     "verified_text": "… and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years …",
+     "sources": [
+      {
+       "title": "Press Release (concerns of truckers regarding Section 106(2) of the Bharatiya Nyaya Sanhita)",
+       "publisher": "PIB",
+       "date": "2024-01-02",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1992552"
+      },
+      {
+       "title": "Truckers call off stir after Centre says new law on hit-and-run cases only after consultation",
+       "publisher": "The Indian Express",
+       "date": "2024-01-02",
+       "url": "https://indianexpress.com/article/india/nationwide-truckers-protest-maharashta-mp-gujarat-9091384"
+      },
+      {
+       "title": "Three criminal laws to be effective from July 1",
+       "publisher": "The Hindu",
+       "date": "2024-02-24",
+       "url": "https://www.thehindu.com/news/national/three-newly-enacted-criminal-laws-to-come-into-effect-from-july-1/article67881602.ece"
+      },
+      {
+       "title": "Highlights of New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2024-07-30",
+       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2039055"
+      }
+     ],
+     "note": "On 2 January 2024 the Government stated that a decision to invoke section 106(2) would be taken only after consultation with the All India Motor Transport Congress. This page does not track any later notification for section 106(2)."
+    },
+    {
+     "label": "Organised crime",
+     "value": "Section 111",
+     "detail": "Organised crime, including continuing unlawful activity such as kidnapping, extortion, land grabbing, contract killing, economic offences and cyber-crimes on behalf of a crime syndicate, has been added as an offence.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "111",
+      "111(1)"
+     ],
+     "verified_text": "Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, …",
+     "sources": [
+      {
+       "title": "Key Features of the New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2025-08-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158411"
+      },
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Petty organised crime",
+     "value": "Section 112",
+     "detail": "Petty organised crime, covering acts such as theft, snatching, cheating and selling of public examination question papers by a member of a group or gang, has been added as an offence.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "112",
+      "112(1)"
+     ],
+     "verified_text": "Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime.",
+     "sources": [
+      {
+       "title": "Key Features of the New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2025-08-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158411"
+      },
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Terrorist act",
+     "value": "Section 113",
+     "detail": "A terrorist act has been added as an offence; an officer not below the rank of Superintendent of Police decides whether to register a case under this section or under the Unlawful Activities (Prevention) Act, 1967.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "113",
+      "113(1)",
+      "113-expl"
+     ],
+     "verified_text": "… the officer not below the rank of Superintendent of Police shall decide whether to register the case under this section or under the Unlawful Activities (Prevention) Act, 1967.",
+     "sources": [
+      {
+       "title": "Key Features of the New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2025-08-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158411"
+      },
+      {
+       "title": "The Bharatiya Nyaya (Second) Sanhita, 2023 (Bill Track)",
+       "publisher": "PRS Legislative Research",
+       "date": null,
+       "url": "https://prsindia.org/billtrack/the-bharatiya-nyaya-second-sanhita-2023"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Snatching",
+     "value": "Section 304",
+     "detail": "Snatching has been defined as a distinct form of theft, punishable with imprisonment of up to three years and fine.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "304(1)",
+      "304(2)"
+     ],
+     "verified_text": "Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.",
+     "sources": [
+      {
+       "title": "Key Features of the New Criminal Laws",
+       "publisher": "PIB",
+       "date": "2025-08-20",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158411"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (presentation)",
+       "publisher": "PIB",
+       "date": "2024-05-22",
+       "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/may/doc2024522337701.pdf"
+      }
+     ],
+     "note": null
+    },
+    {
+     "label": "Sexual intercourse by deceitful means",
+     "value": "Section 69",
+     "detail": "A new offence covers sexual intercourse, not amounting to rape, obtained by deceitful means or a promise to marry made without intent to fulfil it; 'deceitful means' includes false promise of employment or promotion, or marrying by suppressing identity.",
+     "attribution": "According to the Ministry of Home Affairs",
+     "provisions": [
+      "69",
+      "69-expl"
+     ],
+     "verified_text": "Whoever, by deceitful means or by making promise to marry to a woman without any intention of fulfilling the same, has sexual intercourse with her, such sexual intercourse not amounting to the offence of rape, shall be punished with imprisonment of either description for a term which may extend to ten years …",
+     "sources": [
+      {
+       "title": "Bharatiya Nyaya Sanhita in place of Indian Penal Code",
+       "publisher": "PIB",
+       "date": "2025-03-26",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115169"
+      },
+      {
+       "title": "Bharatiya Nyaya Sanhita (BNS) Handbook",
+       "publisher": "Delhi Police Academy",
+       "date": "2024-06-14",
+       "url": "https://training.delhipolice.gov.in/PDF/PublicData/NOTICE_20240614145548185.pdf"
+      }
+     ],
+     "note": null
+    }
+   ]
+  }
+ ]
+}

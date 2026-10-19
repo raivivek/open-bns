@@ -1,0 +1,21 @@
+@SECTION 176 | Illegal payments in connection with an election.
+P1| Whoever without the general or special authority in writing of a candidate incurs or authorises expenses on account of the holding of any public meeting, or upon any advertisement, circular or publication, or in any other way whatsoever for the purpose of promoting or procuring the election of such candidate, shall be punished with fine which may extend to ten thousand rupees:
+P1| Provided that if any person having incurred any such expenses not exceeding the amount of ten rupees without authority obtains within ten days from the date on which such expenses were incurred the approval in writing of the candidate, he shall be deemed to have incurred such expenses with the authority of the candidate.
+@SECTION 177 | Failure to keep election accounts.
+P1| Whoever being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election fails to keep such accounts shall be punished with fine which may extend to five thousand rupees.
+@CHAPTER X
+@CHAPTER-TITLE OF OFFENCES RELATING TO COIN, CURRENCY-NOTES, BANK-NOTES, AND GOVERNMENT STAMPS
+@SECTION 178 | Counterfeiting coin, Government stamps, currency-notes or bank-notes.
+P1| Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+P1| Explanation.—For the purposes of this Chapter,—
+P2| (1) the expression “bank-note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power, and intended to be used as equivalent to, or as a substitute for money;
+P2| (2) “coin” shall have the same meaning as assigned to it in section 2 of the Coinage Act, 2011 and includes metal used for the time being as money and is stamped and issued by or under the authority of any State or Sovereign Power intended to be so used;
+@REF 11 of 2011.
+P2| (3) a person commits the offence of “counterfeiting Government stamp” who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination;
+P2| (4) a person commits the offence of counterfeiting coin who intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin; and
+P2| (5) the offence of “counterfeiting coin” includes diminishing the weight or alteration of the composition, or alteration of the appearance of the coin.
+@SECTION 179 | Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+P1| Whoever imports or exports, or sells or delivers to, or buys or receives from, any other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+@SECTION 180 | Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes.
+P1| Whoever has in his possession any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.
+P1| Explanation.—If a person establishes the possession of the forged or counterfeit coin, stamp, currency-note or bank-note to be from a lawful source, it shall not constitute an offence under this section.

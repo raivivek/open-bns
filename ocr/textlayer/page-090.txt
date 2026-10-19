@@ -1,0 +1,18 @@
+@SECTION 328 | Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.
+P1| Whoever intentionally runs any vessel aground or ashore, intending to commit theft of any property contained therein or to dishonestly misappropriate any such property, or with intent that such theft or misappropriation of property may be committed, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+@HEADING Of criminal trespass
+@SECTION 329 | Criminal trespass and house-trespass.
+P1| (1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person or with intent to commit an offence is said to commit criminal trespass.
+P1| (2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit house-trespass.
+P1| Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.
+P1| (3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.
+P1| (4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+@SECTION 330 | House-trespass and house-breaking.
+P1| (1) Whoever commits house-trespass having taken precautions to conceal such house-trespass from some person who has a right to exclude or eject the trespasser from the building, tent or vessel which is the subject of the trespass, is said to commit lurking house-trespass.
+P1| (2) A person is said to commit house-breaking who commits house-trespass if he effects his entrance into the house or any part of it in any of the six ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of the following ways, namely:––
+P2| (a) if he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass;
+P2| (b) if he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building;
+P2| (c) if he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass by any means by which that passage was not intended by the occupier of the house to be opened;
+P2| (d) if he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass;
+P2| (e) if he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault;
+P2| (f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.

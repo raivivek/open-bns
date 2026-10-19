@@ -1,0 +1,20 @@
+@SECTION 346 | Tampering with property mark with intent to cause injury.
+P1| Whoever removes, destroys, defaces or adds to any property mark, intending or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+@SECTION 347 | Counterfeiting a property mark.
+P1| (1) Whoever counterfeits any property mark used by any other person shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+P1| (2) Whoever counterfeits any property mark used by a public servant, or any mark used by a public servant to denote that any property has been manufactured by a particular person or at a particular time or place, or that the property is of a particular quality or has passed through a particular office, or that it is entitled to any exemption, or uses as genuine any such mark knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+@SECTION 348 | Making or possession of any instrument for counterfeiting a property mark.
+P1| Whoever makes or has in his possession any die, plate or other instrument for the purpose of counterfeiting a property mark, or has in his possession a property mark for the purpose of denoting that any goods belong to a person to whom they do not belong, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+@SECTION 349 | Selling goods marked with a counterfeit property mark.
+P1| Whoever sells, or exposes, or has in possession for sale, any goods or things with a counterfeit property mark affixed to or impressed upon the same or to or upon any case, package or other receptacle in which such goods are contained, shall, unless he proves—
+P2| (a) that, having taken all reasonable precautions against committing an offence against this section, he had at the time of the commission of the alleged offence no reason to suspect the genuineness of the mark; and
+P2| (b) that, on demand made by or on behalf of the prosecutor, he gave all the information in his power with respect to the persons from whom he obtained such goods or things; or
+P2| (c) that otherwise he had acted innocently,
+P0| be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+@SECTION 350 | Making a false mark upon any receptacle containing goods.
+P1| (1) Whoever makes any false mark upon any case, package or other receptacle containing goods, in a manner reasonably calculated to cause any public servant or any other person to believe that such receptacle contains goods which it does not contain or that it does not contain goods which it does contain, or that the goods contained in such receptacle are of a nature or quality different from the real nature or quality thereof, shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+P1| (2) Whoever makes use of any false mark in any manner prohibited under sub-section (1) shall, unless he proves that he acted without intent to defraud, be punished as if he had committed the offence under sub-section (1).
+@CHAPTER XIX
+@CHAPTER-TITLE OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC.
+@SECTION 351 | Criminal intimidation.
+P1| (1) Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.

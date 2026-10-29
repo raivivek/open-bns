@@ -34,11 +34,11 @@ serve: site
 
 test:
 	$(PY) -m unittest discover -s tests -t .
-	node --test tests/
+	node --test tests/*.test.js
 
 # Direct upload to Cloudflare Pages (project/output from wrangler.toml).
 deploy: test site
-	npx wrangler@4 pages deploy dist --project-name $(PAGES_PROJECT) --branch main
+	npx --yes wrangler@4 pages deploy dist --project-name $(PAGES_PROJECT) --branch main
 
 clean:
 	rm -rf build dist

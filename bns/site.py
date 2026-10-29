@@ -24,8 +24,8 @@ TITLE_SUFFIX = " | BNS 2023"
 PDF_PATH = "/source/bns-2023-gazette.pdf"
 # Appended in JS to the long citation form stored on every pilcrow (`data-l`).
 LONG_SUFFIX = " of the Bharatiya Nyaya Sanhita, 2023"
-# The only inline script (no-flash JS class); its hash is pinned in the CSP (web/_headers).
-INLINE_JS = 'document.documentElement.className="js"'
+# The only inline script (no-flash JS class + saved theme); its hash is pinned in the CSP (web/_headers).
+INLINE_JS = 'document.documentElement.className="js";try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")document.documentElement.dataset.theme=t}catch(e){}'
 
 NUMBERED = {"subsection": "sub-section", "clause": "clause", "subclause": "sub-clause", "item": "item"}
 # Long-form connectors: "clause (a) OF sub-section (1)", "Explanation 1 TO section 2(4)".
@@ -537,6 +537,7 @@ class Site:
 </head>
 <body data-page="{kind}">
 <a class="skip" href="#main">Skip to content</a>
+<div class="topbar" role="note">Unofficial edition — may contain mistakes. Verify against <a href="{PDF_PATH}">the Gazette of India</a> or <a href="https://www.indiacode.nic.in/">India Code</a>. <a href="/about/">Disclaimer</a></div>
 <header class="site">
 <div class="brand"><a href="/"><span class="bt">{esc(SITE)}</span> <span class="ba">{esc(act.meta["act"])}</span></a></div>
 <nav class="sitenav" aria-label="Site"><a href="/full/">Full text</a>{'<a href="/stats/">Stats</a>' if self.stats_data else ""}<a href="/about/">About</a><a href="{PDF_PATH}">Gazette PDF</a></nav>
@@ -547,6 +548,7 @@ class Site:
 <button type="submit">Search</button>
 <ul id="hq-list" class="ta" role="listbox" aria-label="Suggestions" hidden></ul>
 </form>
+<button class="theme-btn" id="theme-btn" type="button" aria-label="Toggle color theme" title="Toggle light/dark mode" hidden>◐</button>
 </header>
 <div class="wrap{"" if toc else " no-toc"}">
 <main id="main" tabindex="-1">

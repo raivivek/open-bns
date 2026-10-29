@@ -407,6 +407,8 @@
     pop = null;
     if (popFor) {
       popFor.setAttribute("aria-expanded", "false");
+      var box = popFor.closest(".t, .sh");
+      if (box) box.classList.remove("pil-hl");
       if (restore) popFor.focus();
     }
     popFor = null;
@@ -417,7 +419,12 @@
     var cite = a.getAttribute("data-c") || "";
     var long = a.getAttribute("data-l");
     var page = a.getAttribute("data-p");
-    var link = window.location.origin + a.getAttribute("href");
+    var href = a.getAttribute("href") || "";
+    var link = window.location.origin + href;
+    var hashIdx = href.indexOf("#");
+    if (hashIdx >= 0 && window.history && window.history.replaceState) {
+      window.history.replaceState(null, "", href.slice(hashIdx));
+    }
     var shortC = cite + ", BNS";
     var longC = long ? long + LONG_SUFFIX : null;
     pop = document.createElement("div");
@@ -455,6 +462,8 @@
     pop.style.top = r.bottom + window.scrollY + 4 + "px";
     popFor = a;
     a.setAttribute("aria-expanded", "true");
+    var box = a.closest(".t, .sh");
+    if (box) box.classList.add("pil-hl");
     pop.querySelector("button").focus();
   }
 
@@ -526,7 +535,35 @@
     });
   }
 
+  function setupTheme() {
+    var btn = document.getElementById("theme-btn");
+    if (!btn) return;
+    btn.hidden = false;
+    var root = document.documentElement;
+    var mq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+    function isDark() {
+      var t = root.getAttribute("data-theme");
+      return t ? t === "dark" : !!(mq && mq.matches);
+    }
+    function sync() {
+      var dark = isDark();
+      btn.textContent = dark ? "☀" : "☾";
+      var label = dark ? "Switch to light mode" : "Switch to dark mode";
+      btn.setAttribute("aria-label", label);
+      btn.title = label;
+    }
+    btn.addEventListener("click", function () {
+      var next = isDark() ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      try { localStorage.setItem("theme", next); } catch (e) {}
+      sync();
+    });
+    if (mq && mq.addEventListener) mq.addEventListener("change", sync);
+    sync();
+  }
+
   function init() {
+    setupTheme();
     setupTypeahead();
     setupPilcrows();
     setupToc();
